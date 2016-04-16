@@ -1,3 +1,6 @@
+
+开源视频应用 Popcorn Time
+
 合法视频服务如Netflix、亚马逊和Hulu的流行降低了消费者的BitTorrent文件共享服务的需求，但如今BitTorrent社区发起了反击，一群开发者推出了一款基于BitTorren的免费开源视频应用Popcorn Time，支持Windows、Mac和Linux，提供了一个没有广告界面清爽播放操作简单的高清视频点播服务，其中的电影多数都是720p或1080p格式。程序源代码托管在GitHub上，这意味着MPAA之类的版权机构很难将其扼杀在摇篮中。Popcorn Time利用BT种子服务YTS传 输流视频文件，使用OpenSubtitles提供不同语言的字幕。开发者Sebastian说，程序启动时会跳出免责对话框（如图所示），声明 Popcorn Time使用BitTorrent下载电影和做种，表示种子文件可能并不合法，他们不对此产生的问题负责。(via Solidot)
 
 
